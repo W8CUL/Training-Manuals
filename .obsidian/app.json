@@ -1,5 +1,6 @@
 {
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./res",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "showInlineTitle": false
 }

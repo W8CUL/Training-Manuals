@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Radio shack power meter.md",
+                "file": "Other/radioshack_swr_pwr_meter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Radio shack power meter"
+              "title": "radioshack_swr_pwr_meter"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Radio shack power meter.md",
+                "file": "Other/radioshack_swr_pwr_meter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Radio shack power meter"
+              "title": "Backlinks for radioshack_swr_pwr_meter"
             }
           },
           {
@@ -190,7 +190,7 @@
   "lastOpenFiles": [
     "Other",
     "Antennas/2024-11-24.md",
-    "Other/Radio shack power meter.md",
+    "Other/radioshack_swr_pwr_meter.md",
     "Antennas/res/Pasted image 20241124124234.png",
     "Antennas/res/Pasted image 20241124124028.png",
     "Antennas/res/Pasted image 20241124123604.png",
