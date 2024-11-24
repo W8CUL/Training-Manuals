@@ -4,7 +4,9 @@ By KE8TJE, last updated November 2024
 
 - Connect the radio and the antenna/load correctly
 - Set to the calibration mode
-- Press the PUSH to talk (set to AM/CW)
+- Set the radio to AM or CW mode
+	- Note that in CW mode our meter doesn't work
+- Press the Push to talk (PTT) and TX 
 - Change the calibration knob until the needle hits CAL indicator
 
 ## Testing
