@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6749c6c0440becc4",
+        "id": "277af76714a1ea41",
         "type": "tabs",
         "children": [
           {
-            "id": "eeac01cb5da8162c",
+            "id": "32eccb9d2298ab24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antennas/2024-11-24.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-11-24"
+              "title": "New tab"
             }
           }
         ]
@@ -73,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Antennas/2024-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-24"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,8 +166,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeac01cb5da8162c",
+  "active": "32eccb9d2298ab24",
   "lastOpenFiles": [
+    "Antennas/2024-11-24.md",
+    "README.md",
     "Antennas/res/Pasted image 20241124112436.png",
     "Antennas/res/Pasted image 20241124112408.png",
     "Antennas/res/Pasted image 20241124112343.png",
@@ -181,8 +177,6 @@
     "Antennas/res/Pasted image 20241124112103.png",
     "Antennas/res",
     "Antennas/Untitled.md",
-    "Antennas/2024-11-24.md",
-    "README.md",
     "Antennas"
   ]
 }
