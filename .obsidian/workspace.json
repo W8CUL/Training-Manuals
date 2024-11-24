@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Antennas/2024-11-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2024-11-24"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Antennas/2024-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 2024-11-24"
             }
           },
           {
@@ -173,8 +173,13 @@
   },
   "active": "32eccb9d2298ab24",
   "lastOpenFiles": [
-    "Antennas/2024-11-24.md",
+    "Antennas/res/Pasted image 20241124124234.png",
+    "Antennas/res/Pasted image 20241124124028.png",
+    "Antennas/res/Pasted image 20241124123604.png",
+    "Antennas/res/Pasted image 20241124123154.png",
+    "Antennas/res/Pasted image 20241124123103.png",
     "README.md",
+    "Antennas/2024-11-24.md",
     "Antennas/res/Pasted image 20241124112436.png",
     "Antennas/res/Pasted image 20241124112408.png",
     "Antennas/res/Pasted image 20241124112343.png",
