@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "0e4cc6c04918efd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6749c6c0440becc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeac01cb5da8162c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Antennas/2024-11-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1df8ddefebd32dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7966f8605b6d6cd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "651812df82ceb770",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef44dcbad5551a27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe5624428258c8c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "101a74240b58bebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c322e7ece0f4d18a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c29f8b59e64d4cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Antennas/2024-11-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-24"
+            }
+          },
+          {
+            "id": "c2519e283cfe4f3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b81d004c13cc02ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f983e727e2b5c405",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "992e96fc5056357d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "marp-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "eeac01cb5da8162c",
+  "lastOpenFiles": [
+    "Antennas/res/Pasted image 20241124112436.png",
+    "Antennas/res/Pasted image 20241124112408.png",
+    "Antennas/res/Pasted image 20241124112343.png",
+    "Antennas/res/Pasted image 20241124112148.png",
+    "Antennas/res/Pasted image 20241124112103.png",
+    "Antennas/res",
+    "Antennas/Untitled.md",
+    "Antennas/2024-11-24.md",
+    "README.md",
+    "Antennas"
+  ]
+}

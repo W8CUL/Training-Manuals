@@ -1,0 +1,5 @@
+{
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./res",
+  "newLinkFormat": "relative"
+}
