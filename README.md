@@ -14,3 +14,5 @@ These
 4. Antennas
 	1. [HF antenna testing](./Antennas/2024-11-24.md)
 	2. Other
+		1. [EFHW build](EFHW build)
+		2. 
