@@ -16,4 +16,9 @@ These
 	1. [HF antenna testing](./Antennas/2024-11-24.md)
 	2. Other
 		1. [EFHW build](./Antennas/EFHW.md)
-		2. 
+		2. [Analog Radioshack - power meter](Other/radioshack_swr_pwr_meter.md)
+6. DIY builds
+	1. WSPR
+	2. APRS packet generator
+	3. CW trainer
+	4. Slim Jim antenna

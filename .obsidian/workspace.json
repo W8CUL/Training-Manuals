@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af50b74e0858eafb",
+        "id": "1a562cd038659f40",
         "type": "tabs",
         "children": [
           {
-            "id": "b0fb6bf9761fe3dc",
+            "id": "fb8793103b75cd2d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Other/ARC Slim Jim build day - 2024.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "ARC Slim Jim build day - 2024"
             }
           }
         ]
@@ -170,19 +171,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0fb6bf9761fe3dc",
+  "active": "fb8793103b75cd2d",
   "lastOpenFiles": [
-    "HF operation/G90-Digital.md",
+    "Other/radioshack_swr_pwr_meter.md",
+    "Other/res/Pasted image 20240417231811.png",
+    "Other/res/Pasted image 20240417230945.png",
+    "Other/ARC Slim Jim build day - 2024.md",
+    "README.md",
+    "Other/res",
     "HF operation/FT891-Gokit.md",
+    "HF operation/G90-Digital.md",
     "Antennas/EFHW.md",
     "Antennas/2024-11-24.md",
-    "README.md",
     "HF operation/res/Pasted image 20241229191640.png",
     "HF operation/res",
     "HF operation",
     "Antennas/res/Pasted image 20241229181035.png",
     "().md",
-    "Other/radioshack_swr_pwr_meter.md",
     "Antennas/res/yagi10m_KA3WVU.png",
     "Antennas/res/yagi15m_KA3WVU.png",
     "Antennas/res/yagi20m_KA3WVU 1.png",
@@ -190,8 +195,6 @@
     "Other",
     "Antennas/res/Pasted image 20241124124234.png",
     "Antennas/res/Pasted image 20241124124028.png",
-    "Antennas/res/Pasted image 20241124123604.png",
-    "Antennas/res/Pasted image 20241124123154.png",
     "Antennas/res",
     "Antennas/Untitled.md",
     "Antennas"
