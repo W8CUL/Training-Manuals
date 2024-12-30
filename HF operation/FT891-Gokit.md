@@ -20,5 +20,21 @@
 ---
 ## Notes on deployment
 
-### EFHW location
+### EFHW 
 
+
+
+### Vertical antennas
+
+-  not available at the time of writing - Dec 2024
+
+### Quick settings 
+
+- Change power
+	- jkj
+- Change mode
+	- j
+- Change band
+	- kk
+- Comp
+	- 
