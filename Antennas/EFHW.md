@@ -32,3 +32,5 @@ After rewinding the transformer with different methods the following are the mai
 Final build Image 
 
 ![](res/Pasted%20image%2020241229181035.png)
+
+*Note: Question/Comments [email KE8TJE](mailto:ke8tje@gmail.com).*
