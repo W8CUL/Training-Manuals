@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HF operation/G90-Digital.md",
+                "file": "HF operation/FT891-Gokit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "G90-Digital"
+              "title": "FT891-Gokit"
             }
           }
         ]
@@ -173,10 +173,11 @@
   },
   "active": "dc377273f4441fc6",
   "lastOpenFiles": [
+    "README.md",
+    "HF operation/FT891-Gokit.md",
+    "HF operation/G90-Digital.md",
     "HF operation/res/Pasted image 20241229191640.png",
     "HF operation/res",
-    "README.md",
-    "HF operation/G90-Digital.md",
     "HF operation",
     "Antennas/EFHW.md",
     "Antennas/res/Pasted image 20241229181035.png",
@@ -192,7 +193,6 @@
     "Antennas/res/Pasted image 20241124124028.png",
     "Antennas/res/Pasted image 20241124123604.png",
     "Antennas/res/Pasted image 20241124123154.png",
-    "Antennas/res/Pasted image 20241124123103.png",
     "Antennas/res",
     "Antennas/Untitled.md",
     "Antennas"

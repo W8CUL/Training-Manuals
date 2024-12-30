@@ -9,7 +9,7 @@ These
 	1. EMCOM Kits
 	2. Other radios
 3. HF Kits
-	1. FT891
+	1. FT891 - HF Go kit
 	2. Xiegu G90
 		1. [Digital operations](./HF%20operation/G90-Digital.md)
 4. Antennas
