@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/ARC Slim Jim build day - 2024.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARC Slim Jim build day - 2024"
+              "title": "README"
             }
           }
         ]
@@ -173,11 +173,11 @@
   },
   "active": "fb8793103b75cd2d",
   "lastOpenFiles": [
-    "Other/radioshack_swr_pwr_meter.md",
-    "Other/res/Pasted image 20240417231811.png",
-    "Other/res/Pasted image 20240417230945.png",
     "Other/ARC Slim Jim build day - 2024.md",
     "README.md",
+    "Other/res/Pasted image 20240417231811.png",
+    "Other/res/Pasted image 20240417230945.png",
+    "Other/radioshack_swr_pwr_meter.md",
     "Other/res",
     "HF operation/FT891-Gokit.md",
     "HF operation/G90-Digital.md",
