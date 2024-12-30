@@ -2,6 +2,8 @@
 by KE8TJE and KC3YLF 
 last updated: December 2024
 
+#HF #G90 #Digital #FT8 
+
 - To use and operate on Digital modes you need the Digital add ons for the G90. 
 - At the time of writing these were housed in a brown cardboard box.
 - The content of the box is shown below 

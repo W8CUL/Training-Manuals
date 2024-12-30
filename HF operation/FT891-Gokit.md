@@ -1,4 +1,5 @@
 # HF Go kit - FT891
+#HF #FT891 #go-kit #EFHW
 
 - This kit contains the following items (use this as a checklist)
 	- FT 891 Radio

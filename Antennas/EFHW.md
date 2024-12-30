@@ -1,6 +1,8 @@
 # Low cost EFHW Build
 by KE8TJE - December 2024
 
+#EFHW #HF #DIY #Build #antenna
+
 End fed half waves are easy to setup antennas and have great performance on multiple bands. An EFHW consists of a impedance transformer which is often called a "ballon".  Having a ready to go EFHW transformer is a good addition for any hams go kit.
 
 You can find multiple build kits and guides online that shows the process of building these. I found the guides usually lacking tuning information/ details that makes the build process easy.
