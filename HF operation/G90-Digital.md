@@ -17,7 +17,7 @@ last updated: December 2024
 
 - Connect the DE19 unit to the radio
 	- Mini DIN connector -> back of the radio
-	- 3.5 mm Audio cable -> to the head of the radio
+	- 3.5 mm Audio cable -> to the head of the radio data port (icon with a man)
 
 - Once you have the connections made turn on the radio and plug in the USB.
 - It should show up as an extra sound card.
