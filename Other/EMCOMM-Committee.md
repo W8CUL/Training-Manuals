@@ -6,7 +6,7 @@
 - 27.01.2025 - Emailed with finalized meeting time 
 	- Tuesday 2000 or Sunday 1900 with alternating meeting by meeting to include every one in the group
 	- Set a dead line for individual plan submission as 07.02.2025
-	- Set the first meeting on 09.02.2025 - Scheduled the zoom and added to the 
+	- Set the first meeting on 09.02.2025 - Scheduled the zoom and added to the calendar 
 
 ---
 ## 09.02.2025 
@@ -59,6 +59,23 @@
 	- KC3VOP
 
 ---
+## Individual Plan - KE8TJE
+
+- Stage 1
+	- 2000 W Honda
+	- Potable fiberglass pole for an extension 
+	- Dead meat hauler 
+	- 2 - 100 W rated EFHWs
+	- 3 - 100 ft outdoor rated coax runs and storage
+- Stage 2 - beyond this year
+	- Write a grant (next EC) - ARDC/ARRL
+	- Get the propane conversion kit
+	- get a 2nd Generator
+	- Battery bank 
+- Stage 3 + (more like in 5 years/when we have money)
+	- Solar (for the battery bank)
+
+---
 ## Update from the chair (KE8TJE)
 
 - I talked to both the local clubs K8MCR and W8MWA about the fact that we are looking to replace the trailer and I got a lot of options
@@ -68,3 +85,4 @@
 	- John (KD8VMF): commented on propane generators being the way to go
 	- Randy and Carl I put in the word to get them to meet with all/some of us
 ---
+
