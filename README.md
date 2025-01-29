@@ -23,3 +23,4 @@ These
 	2. APRS packet generator
 	3. CW trainer
 	4. [2m Slim Jim - 2024](Antennas/ARC%20Slim%20Jim%20build%20day%20-%202024.md)
+- [EMCOMM-Committee](Other/EMCOMM-Committee.md)

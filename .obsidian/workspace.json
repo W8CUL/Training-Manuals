@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Other/EMCOMM-Committee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "EMCOMM-Committee"
             }
           }
         ]
       },
       {
-        "id": "f0cf5ba0dd33ba8d",
+        "id": "599a22075e2ca317",
         "type": "tabs",
         "children": [
           {
-            "id": "8d576effd4ceb650",
+            "id": "26a0793d798be4fe",
             "type": "leaf",
             "state": {
               "type": "marp-preview-view",
@@ -187,10 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a58ad85a3da3c90",
+  "active": "26a0793d798be4fe",
   "lastOpenFiles": [
-    "Antennas/2024-11-24.md",
     "README.md",
+    "Antennas/2024-11-24.md",
     "Antennas/EFHW.md",
     "Antennas/res/Pasted image 20250126110719.png",
     "Antennas/res/Pasted image 20250126110539.png",
