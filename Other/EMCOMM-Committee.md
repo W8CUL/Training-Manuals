@@ -2,7 +2,7 @@
 
 ## Ground work
 
-- Have 8 members who has signed up to help: KE8TJE,N3AML,KC3YLF,KA3WVU,KE8WZW,KC3VOP,KE8VWQ,KQ4LDS
+- Have 8 members who has signed up to help: KE8TJE,N3AMK,KC3YLF,KA3WVU,KE8WZW,KC3VOP,KE8VWQ,KQ4LDS
 - 27.01.2025 - Emailed with finalized meeting time 
 	- Tuesday 2000 or Sunday 1900 with alternating meeting by meeting to include every one in the group
 	- Set a dead line for individual plan submission as 07.02.2025
@@ -24,7 +24,7 @@
 
 - We need to plan for the next 5-10 years for the club 
 - Lets look at the current/old system
-	- Generator trailer with mast
+	- Generator trailer with mast (Had :( )
 		- Quad band radio on the trailer - this failed  due to improper installation and planning
 		- UHF repeater - failed 
 	- VHF kits 
@@ -62,18 +62,24 @@
 ## Individual Plan - KE8TJE
 
 - Stage 1
-	- 2000 W Honda
+	- 2000 W Honda - Refer experts
 	- Potable fiberglass pole for an extension 
-	- Dead meat hauler 
+	- Dead meat hauler (may be optional)
 	- 2 - 100 W rated EFHWs
 	- 3 - 100 ft outdoor rated coax runs and storage
+	- 10,20,80 ham sticks with mag mounts
 - Stage 2 - beyond this year
 	- Write a grant (next EC) - ARDC/ARRL
 	- Get the propane conversion kit
-	- get a 2nd Generator
 	- Battery bank 
+---
+
 - Stage 3 + (more like in 5 years/when we have money)
 	- Solar (for the battery bank)
+## Why implement in stages
+- its unlikely(needs convincing ) that we can get anything beyond $2800 from ARC
+- But this is something we can ask from the members
+- 2 separate generators were recommended by Carl
 
 ---
 ## Update from the chair (KE8TJE)
