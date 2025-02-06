@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Antennas/2025-02-03.md",
+                "file": "Other/EMCOMM-Committee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-03"
+              "title": "EMCOMM-Committee"
             }
           }
         ]
@@ -174,14 +174,15 @@
   },
   "active": "7a58ad85a3da3c90",
   "lastOpenFiles": [
+    "README.md",
+    "HF operation/FT891-Gokit.md",
+    "Antennas/2025-02-03.md",
     "Other/EMCOMM-Committee.md",
     "Antennas/res/{972F3271-882C-4A1C-BDF3-BFADA7382CEF}.png",
     "Antennas/res/Pasted image 20250203111508.png",
     "Antennas/res/Pasted image 20250203111010.png",
-    "Antennas/2025-02-03.md",
     "Antennas/2024-11-24.html",
     "Other/EMCOMM-Committee.html",
-    "README.md",
     "Antennas/2024-11-24.md",
     "Antennas/EFHW.md",
     "Antennas/res/Pasted image 20250126110719.png",
@@ -194,7 +195,6 @@
     "Other/Getting started with OpenGD77.md",
     "Other/res/Pasted image 20240121125008.png",
     "HF operation/G90-Digital.md",
-    "HF operation/FT891-Gokit.md",
     "ke8tje@gmail.com.md",
     "[.md",
     "Other/res/Pasted image 20240417231811.png",

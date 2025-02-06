@@ -17,7 +17,10 @@
 - Look at individual plans (in the order submitted)
 	- Please note things you like and not about every ones plan
 	- KC3VOP
-- What do we wanna do next - open 
+	- N3AMK
+	- KE8TJE - Last 
+- What do we wanna do next - open discussion 
+- Plan meeting time
 
 ---
 ### Big picture stuff
@@ -57,6 +60,8 @@
 - Do it in 10 mins or less: Be high level 
 - Order
 	- KC3VOP
+	- N3AMK
+	- KE8TJE
 
 ---
 ## Individual Plan - KE8TJE
@@ -66,20 +71,21 @@
 	- Potable fiberglass pole for an extension 
 	- Dead meat hauler (may be optional)
 	- 2 - 100 W rated EFHWs
-	- 3 - 100 ft outdoor rated coax runs and storage
+	- 4 - 50 ft outdoor rated coax runs and storage 
 	- 10,20,80 ham sticks with mag mounts
 - Stage 2 - beyond this year
 	- Write a grant (next EC) - ARDC/ARRL
-	- Get the propane conversion kit
+	- Get the propane conversion kit - some say this may not be needed
 	- Battery bank 
 ---
 
 - Stage 3 + (more like in 5 years/when we have money)
 	- Solar (for the battery bank)
 ## Why implement in stages
-- its unlikely(needs convincing ) that we can get anything beyond $2800 from ARC
+- its unlikely(needs convincing) that we can get anything beyond $2800 from ARC
 - But this is something we can ask from the members
 - 2 separate generators were recommended by Carl
+	- We might not need that much power
 
 ---
 ## Update from the chair (KE8TJE)
