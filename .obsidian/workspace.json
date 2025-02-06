@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/EMCOMM-Committee.md",
+                "file": "HF operation/G90-Digital.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EMCOMM-Committee"
+              "title": "G90-Digital"
             }
           }
         ]
@@ -174,10 +174,10 @@
   },
   "active": "7a58ad85a3da3c90",
   "lastOpenFiles": [
+    "Other/EMCOMM-Committee.md",
     "README.md",
     "HF operation/FT891-Gokit.md",
     "Antennas/2025-02-03.md",
-    "Other/EMCOMM-Committee.md",
     "Antennas/res/{972F3271-882C-4A1C-BDF3-BFADA7382CEF}.png",
     "Antennas/res/Pasted image 20250203111508.png",
     "Antennas/res/Pasted image 20250203111010.png",

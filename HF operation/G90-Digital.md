@@ -22,9 +22,16 @@ last updated: December 2024
 	- 3.5 mm Audio cable -> to the head of the radio data port (icon with a man)
 
 - Once you have the connections made turn on the radio and plug in the USB.
-- It should show up as an extra sound card.
+- It should show up as an extra sound card and a USB serial port
+	- If the com port is not shown a driver is needed can be found [here](https://www.radioddity.com/pages/xiegu-download?srsltid=AfmBOoqLrWdmAihtAQWSQnbb37YU3xDsbe_omabtoGfEIx_bvfyXcE1P)
+	- At the time of writing on win 11 (Jan 2025)
+		- The available setup.exe did not work to install it
+		- Go to device manager
+		- Right click on the device with errors
+		- Browse the drive manually 
 - To use the device change the following settings in WSJT-x or any other applications
 	- Select "Xiegu G90" as the radio
 	- Baud rate: 19200
 	- CAT control 
 	- Test the connection 
+
