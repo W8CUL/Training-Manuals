@@ -23,4 +23,7 @@ These
 	2. APRS packet generator
 	3. CW trainer
 	4. [2m Slim Jim - 2024](Antennas/ARC%20Slim%20Jim%20build%20day%20-%202024.md)
+6. Band conditions 
+	1. Setup at W8CUL
+	2. [WSPR data analysis](Other/src/Readme.md)
 - [EMCOMM-Committee](Other/EMCOMM-Committee.md)
