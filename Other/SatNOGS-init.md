@@ -4,6 +4,7 @@
 ## 02.07.2025  
 by KE8TJE + KC3YAL
 
+Temp docs for easy access: https://pad.education/p/arc-sat
 ### Yagi controller designs 
 
 #### online docs
