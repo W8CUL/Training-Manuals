@@ -1,6 +1,8 @@
 # Training-Manuals
 
-These 
+These are a collection of documents that are maintained by a volunteers in the WVU Amateur radio club - W8CUL
+
+if you find any incorrect instructions or issues please contact [wvuarc@gmail.com](maitto:wvuarc@gmail.com)
 
 ## Table of content
 
