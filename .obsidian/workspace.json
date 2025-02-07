@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Antennas/2025-02-03.md",
+                "file": "Other/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-03"
+              "title": "Untitled"
             }
           }
         ],
@@ -189,14 +189,16 @@
   },
   "active": "40696dd36527b98b",
   "lastOpenFiles": [
+    "HF operation/G90-Digital.md",
+    "Other/Untitled.md",
+    "README.md",
+    "Antennas/2025-02-03.md",
     "Antennas/res/{972F3271-882C-4A1C-BDF3-BFADA7382CEF}.png",
     "Antennas/res/Pasted image 20250203111508.png",
     "Antennas/res/Pasted image 20250203111010.png",
     "Antennas/2024-11-24.md",
-    "Antennas/2025-02-03.md",
     "Antennas/2024-11-26.md",
     "Antennas/EFHW.md",
-    "README.md",
     "Other/EMCOMM-Committee.md",
     "Other/radioshack_swr_pwr_meter.md",
     "Antennas/2024-11-24.html",
@@ -205,7 +207,6 @@
     "Antennas/res/Pasted image 20250126110255.png",
     "Other/res/Pasted image 20240417230945.png",
     "Other/res/Pasted image 20240121125008.png",
-    "HF operation/G90-Digital.md",
     "Other/res/Pasted image 20240417231811.png",
     "Other/res",
     "Other/Getting started with OpenGD77.md",
@@ -213,7 +214,6 @@
     "HF operation/res",
     "HF operation/FT891-Gokit.md",
     "HF operation",
-    "Antennas/res/Pasted image 20241229181035.png",
     "Antennas/ARC Slim Jim build day - 2024.md",
     "Other",
     "Antennas/res",
