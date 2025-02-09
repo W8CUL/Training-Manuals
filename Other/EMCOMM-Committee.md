@@ -16,9 +16,6 @@
 - Big picture stuff
 - Look at individual plans (in the order submitted)
 	- Please note things you like and not about every ones plan
-	- KC3VOP
-	- N3AMK
-	- KE8TJE - Last 
 - What do we wanna do next - open discussion 
 - Plan meeting time
 
@@ -49,9 +46,10 @@
 
  - Currently We have $2800 no questions asked
  - We can ask for more money(from the grants) if it is justifiable 
- - Can we write to Spencerships 
-	 - There is a case manufacturer - I have the contact and every thing
-	 - I did ask Jack December to draft an email
+ - Can we (No me) write to Sponsorships 
+	 - [x] There is a case manufacturer - I have the contact and every thing
+	 - [x] I did ask Jack December to draft an email
+	 - Ian/Aidan talked about a launch labs project for a meeting they had with Brown and Valenti. Nothings else have been shared my way. Current exec's don't know how to use email. Just verbally say things and forgets all about it
 - Are there questions or comments so far ?
 	- Should we ask for more money
 ---
@@ -61,6 +59,7 @@
 - Order
 	- KC3VOP
 	- N3AMK
+	- KC3YLF
 	- KE8TJE
 
 ---
@@ -97,4 +96,12 @@
 	- John (KD8VMF): commented on propane generators being the way to go
 	- Randy and Carl I put in the word to get them to meet with all/some of us
 ---
+## Update on the cases I asked for 
 
+- I got Ryan and Aidan to draft and send an email on Thursday
+- We got what I asked for
+	- https://www.skbcases.com/products/rseries-3018-20-case
+	- Dimensions 30 X 18 X 20 inches
+- I think we should ask for 
+	- Name plates : https://www.skbcases.com/products/3-x-5-metal-label-plate
+	- Document holder: https://www.skbcases.com/products/document-card-holder-w-clear-plastic-cover
