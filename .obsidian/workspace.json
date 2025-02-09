@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "e70d7d5d34022867",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf43325ca1b27b93",
-            "type": "leaf",
-            "state": {
-              "type": "marp-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Deck Preview"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf43325ca1b27b93",
+  "active": "8e62fe642478b107",
   "lastOpenFiles": [
     "Antennas/res/Pasted image 20250209114651.png",
     "Antennas/2025-02-09.pdf",
