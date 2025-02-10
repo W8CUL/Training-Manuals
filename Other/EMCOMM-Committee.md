@@ -61,7 +61,6 @@
 	- N3AMK
 	- KC3YLF
 	- KE8TJE
-
 ---
 ## Individual Plan - KE8TJE
 

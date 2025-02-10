@@ -28,8 +28,11 @@ Temp docs for easy access: https://pad.education/p/arc-sat
 		- Some internal issue. BJT is fine 
 		- likely option is that the internal rotator controller interface has a slightly different value
 		- options to test: 
-			- Use a BS170 and try if that works
-			- Reduce the $R_c$ resistance and see if that changes any thing
+			- [x] Use a BS170 and try if that works
+				- This works with 5V supplied by the arduino, but not with digital IO
+				- Possible that the configuration was the issue
+			- [ ] Reduce the $R_c$ resistance and see if that changes any thing
+
 
 ## Software customization
 
@@ -37,3 +40,9 @@ Temp docs for easy access: https://pad.education/p/arc-sat
 	- We should put a IMC and a display for feedback
 	- add LED's to the control input 
 - Change pin configs in `rotator_pins.h`
+
+---
+## Internal controller diagnostic
+
+- Open up the controller 
+- Check the D1015s and see if they all physically look good
