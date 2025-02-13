@@ -30,4 +30,4 @@ if you find any incorrect instructions or issues please contact [wvuarc@gmail.co
 6. Band conditions 
 	1. Setup at W8CUL
 	2. [WSPR data analysis](Other/src/Readme.md)
-- [EMCOMM-Committee](Other/EMCOMM-Committee.md)
+- [Readme](Other/EMCOMM%20committee/Readme.md)
