@@ -34,7 +34,7 @@ Temp docs for easy access: https://pad.education/p/arc-sat
 			- [ ] Reduce the $R_c$ resistance and see if that changes any thing
 
 
-## Software customization
+### Software customization
 
 - K3NG is a very general control system
 	- We should put a IMC and a display for feedback
@@ -46,11 +46,19 @@ Temp docs for easy access: https://pad.education/p/arc-sat
 
 - Open up the controller 
 - Check the D1015s and see if they all physically look good
+	- Opened it up but nothing significant
 
 
 ---
 ## 2025.02.15
 
 - Fixed all the electrical issues in the PCB
+	- Soldering was not great, there were shorts on the analog input side preventing calibration efforts
+	- They are now acting as expected. With the addition of a BS170 for the Right signal(Blue wire)
 - Start guide https://www.minikits.com.au/doc/K3NG_Quick_Start.pdf
-	- Not working: Calibration may be put dated
+	- Not working: Calibration may be out dated
+- To-DO
+	- New instructions and calibration testing command [here](https://github.com/k3ng/k3ng_rotator_controller/wiki/500-Heading-Calibration)
+	- available command: https://github.com/k3ng/k3ng_rotator_controller/wiki/820-Command-Reference
+		- `\d` command will give you status and should help calibrate and debug
+	- Antennas are mounted in the wrong orientation. They need to be rotated fix the rotation
