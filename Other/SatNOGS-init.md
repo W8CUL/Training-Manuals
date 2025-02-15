@@ -51,6 +51,7 @@ Temp docs for easy access: https://pad.education/p/arc-sat
 
 ---
 ## 2025.02.15
+by KE8YJE +KC3YAL 
 
 - Fixed all the electrical issues in the PCB
 	- Soldering was not great, there were shorts on the analog input side preventing calibration efforts
