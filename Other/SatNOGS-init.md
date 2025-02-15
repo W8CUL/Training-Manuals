@@ -46,3 +46,11 @@ Temp docs for easy access: https://pad.education/p/arc-sat
 
 - Open up the controller 
 - Check the D1015s and see if they all physically look good
+
+
+---
+## 2025.02.15
+
+- Fixed all the electrical issues in the PCB
+- Start guide https://www.minikits.com.au/doc/K3NG_Quick_Start.pdf
+	- Not working: Calibration may be put dated
