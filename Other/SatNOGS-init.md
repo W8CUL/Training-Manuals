@@ -63,3 +63,21 @@ by KE8YJE +KC3YAL
 	- available command: https://github.com/k3ng/k3ng_rotator_controller/wiki/820-Command-Reference
 		- `\d` command will give you status and should help calibrate and debug
 	- Antennas are mounted in the wrong orientation. They need to be rotated fix the rotation
+---
+## 2025.02.16
+
+- Fixed all the software issues 
+- Rotated it to the correct orientation
+- Debug log for later comparison
+
+![](res/Pasted%20image%2020250216095152.png)
+
+- Things to be fixed
+	- Put lock washers in the VHF side
+- hamlib can be used to interface the arduino
+	- `rotctld -m 603 -vvv -r /dev/ttyACM0 -t 4533 -s 9600`
+- I am using Gpredict to both control the Yagi and an SDR frequency correction 
+- Tracking threshold was set to $5\degree$  for usable tracking
+- Calibration for Az was redone - this needs to be conformed actually with the system to see if the rotation is consistent with the needle and the controller software
+- Initial test image from NOAA 19: there was a bug on the calibration at the time
+![](res/Pasted%20image%2020250216122735.png)
