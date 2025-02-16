@@ -33,4 +33,3 @@ if you find any incorrect instructions or issues please contact [wvuarc@gmail.co
 7. Projects
 	1. [SatNOG](Other/SatNOGS-init.md)
 	2. [EMCOMM](Other/EMCOMM%20committee/Readme.md)
-	3. 
