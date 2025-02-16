@@ -63,6 +63,22 @@ by KE8YJE +KC3YAL
 	- available command: https://github.com/k3ng/k3ng_rotator_controller/wiki/820-Command-Reference
 		- `\d` command will give you status and should help calibrate and debug
 	- Antennas are mounted in the wrong orientation. They need to be rotated fix the rotation
+### Pin specs for the PCB
+
+- 1 V Feedback (Purple)
+- 2 Right > Q4 > D6 (Green)
+- 3 Up > Q3 > D7 (Yellow)
+- 4 Left > Q2 > D8 (Blue)
+- 5 Down > Q1 > D9 (Orange)
+- 6 H Feedback > A0 (Grey)
+- 7 VIN- not used >A1 (Red)
+- GND (White/Black)
+
+#### Observations - KC3YAL
+- New circuit board was made for the LEFT(CCW) signal
+	- This fixed the intermittent connection on the blue wire (PIN 4)
+- Pins Soldered directly to the PCB
+	- A New PCB will have to be made that includes Debugging LED's and a 8 Pin jack for easier/better connection
 ---
 ## 2025.02.16
 
@@ -78,6 +94,13 @@ by KE8YJE +KC3YAL
 	- `rotctld -m 603 -vvv -r /dev/ttyACM0 -t 4533 -s 9600`
 - I am using Gpredict to both control the Yagi and an SDR frequency correction 
 - Tracking threshold was set to $5\degree$  for usable tracking
-- Calibration for Az was redone - this needs to be conformed actually with the system to see if the rotation is consistent with the needle and the controller software
+- Calibration for Az was redone - this needs to be confirmed actually with the system to see if the rotation is consistent with the needle and the controller software
 - Initial test image from NOAA 19: there was a bug on the calibration at the time
+	- EL was working smoothly
+	- AZ was saturated and this was identified and fixed
 ![](res/Pasted%20image%2020250216122735.png)
+
+### Notes on K3NG SW
+- No major changes are needed after the correct branch was used
+- Saving settings and calibration are the most important settings
+- I physically moved the rotator to have N corrected. software corrections are available as well
