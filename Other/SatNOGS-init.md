@@ -104,3 +104,11 @@ by KE8YJE +KC3YAL
 - No major changes are needed after the correct branch was used
 - Saving settings and calibration are the most important settings
 - I physically moved the rotator to have N corrected. software corrections are available as well
+
+----
+## Contacts
+
+- Status: https://www.amsat.org/status/
+- Log contacts 
+
+---
