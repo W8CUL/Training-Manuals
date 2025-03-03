@@ -33,3 +33,9 @@
 	- Panasonic FZM1-Mark 2
 - ikey key board
 - RII - bluetooth keyboards
+- Battery manufacturers
+	- https://battlebornbatteries.com/stories/our-story/
+	- https://www.redodopower.com/products/12v-100ah-mini-lithium-ion-battery 
+		- new company
+	- https://battlebornbatteries.com/stories/our-story/
+	- https://www.epochbatteries.com/pages/philanthropy 
