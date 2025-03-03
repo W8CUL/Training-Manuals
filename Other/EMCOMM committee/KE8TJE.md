@@ -20,3 +20,16 @@
 - But this is something we can ask from the members
 - 2 separate generators were recommended by Carl
 	- We might not need that much power
+
+
+----
+
+### Digital infrastructure 
+
+- EMCOMMTools - ET (digital platform)
+- 64 bit intel 
+- Panasonic FZG1 - M
+- Bob Jonson's computer stuff
+	- Panasonic FZM1-Mark 2
+- ikey key board
+- RII - bluetooth keyboards
