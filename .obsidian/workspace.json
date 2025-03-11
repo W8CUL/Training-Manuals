@@ -20,8 +20,35 @@
               "icon": "lucide-file",
               "title": "2025-03-10"
             }
+          },
+          {
+            "id": "4d60664eff4497c0",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
+            "id": "ebccdf18af4fd8b4",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,11 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e62fe642478b107",
+  "active": "ebccdf18af4fd8b4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Antennas/2025-03-10.md",
     "Antennas/2025-02-09.md",
     "Antennas/2025-02-11.md",
-    "Antennas/2025-03-10.md",
     "Antennas/res/Pasted image 20250310222532.png",
     "Antennas/res/Pasted image 20250310222525.png",
     "Antennas/res/Pasted image 20250310222236.png",
@@ -212,7 +240,6 @@
     "HF operation/G90-Digital.md",
     "HF operation/FT891-Gokit.md",
     "Other/EMCOMM-Committee.md",
-    "conflict-files-obsidian-git.md",
     "Other/src/Readme.md",
     "Antennas/2025-02-03.md",
     "Antennas/2024-11-26.md",
