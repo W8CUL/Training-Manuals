@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/KE8TJE/Talking on Sats.md",
+                "file": "Antennas/2025-03-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Talking on Sats"
+              "title": "2025-03-10"
             }
           }
         ]
@@ -174,22 +174,32 @@
   },
   "active": "8e62fe642478b107",
   "lastOpenFiles": [
+    "Antennas/2025-02-09.md",
+    "Antennas/2025-02-11.md",
+    "Antennas/2025-03-10.md",
+    "Antennas/res/Pasted image 20250310222532.png",
+    "Antennas/res/Pasted image 20250310222525.png",
+    "Antennas/res/Pasted image 20250310222236.png",
+    "Antennas/res/Pasted image 20250310222138.png",
+    "Antennas/res/245_deg-13-15_2025-03-10_22-17-55.s1p",
+    "Antennas/res/60_deg-13-15_2025-03-10_22-17-55.s1p",
+    "Antennas/res/60_deg_2025-03-10_22-17-55.s1p",
+    "Antennas/res/bin_vna_files",
+    "Antennas/res/New folder",
+    "Antennas/res/Pasted image 20250310221517.png",
+    "Antennas/res/Pasted image 20250310221311.png",
+    "Antennas/res/Pasted image 20250310221139.png",
+    "Antennas/res/Pasted image 20250310220413.png",
+    "Other/KE8TJE/Talking on Sats.md",
     "Other/KE8TJE/res/Pasted image 20250221220545.png",
     "Other/SatNOGS-init.md",
-    "Other/KE8TJE/Talking on Sats.md",
     "Other/EMCOMM committee/res/Pasted image 20250217131305.png",
-    "Other/EMCOMM committee/res/Pasted image 20250217131222.png",
-    "Other/EMCOMM committee/res/Pasted image 20250217131120.png",
-    "Other/EMCOMM committee/res/Pasted image 20250217124808.png",
     "Other/EMCOMM committee/res",
     "Other/EMCOMM committee/Meeting 2 - 2025.02.18.pdf",
     "Other/EMCOMM committee/Meeting 2 - 2025.02.18.md",
     "Other/EMCOMM committee/Meeting 2 - 2025.02.18.html",
     "README.md",
     "Other/Contesting.md",
-    "Other/res/Pasted image 20250216131522.png",
-    "Other/res/Pasted image 20250216122735.png",
-    "Other/res/Pasted image 20250216095152.png",
     "Other/fixing stuff/G90.md",
     "Other/fixing stuff",
     "Antennas/2024-11-24.md",
@@ -198,27 +208,16 @@
     "Other/EMCOMM committee",
     "Other/radioshack_swr_pwr_meter.md",
     "Other/KE8TJE/HF operation - Personal notes.md",
-    "Other/KE8TJE/res/Pasted image 20250211075828.png",
-    "Other/KE8TJE/res",
-    "Other/KE8TJE",
-    "Antennas/2025-02-11.md",
-    "Antennas/res/Pasted image 20250211073035.png",
-    "Antennas/res/Pasted image 20250211073026.png",
-    "Antennas/2025-02-09.md",
     "HF operation/RTTY.md",
     "HF operation/G90-Digital.md",
     "HF operation/FT891-Gokit.md",
     "Other/EMCOMM-Committee.md",
-    "Antennas/2025-02-09.pdf",
-    "Antennas/2025-02-09.html",
     "conflict-files-obsidian-git.md",
-    "Other/src/data/spots_06_Feb_2025@0936.tsv",
     "Other/src/Readme.md",
     "Antennas/2025-02-03.md",
     "Antennas/2024-11-26.md",
     "Antennas/EFHW.md",
     "Other/Getting started with OpenGD77.md",
-    "Antennas/ARC Slim Jim build day - 2024.md",
-    "Antennas/Untitled.md"
+    "Antennas/ARC Slim Jim build day - 2024.md"
   ]
 }
