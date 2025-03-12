@@ -38,13 +38,14 @@
             "id": "ebccdf18af4fd8b4",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Antennas/2025-03-12.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "2025-03-12"
             }
           }
         ],
@@ -201,27 +202,31 @@
   },
   "active": "ebccdf18af4fd8b4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Antennas/2025-03-10.md",
+    "Antennas/res/Pasted image 20250312175350.png",
+    "Antennas/res/Pasted image 20250312175147.png",
+    "Antennas/res/uhf_sat_2025-03-12_17-48-02.s1p",
+    "Antennas/res/2m_1601poits__2025-03-12_17-46-02.s1p",
+    "Antennas/res/Pasted image 20250312174303.png",
+    "Antennas/res/Pasted image 20250312174055.png",
+    "Antennas/res/Pasted image 20250312174043.png",
+    "Antennas/res/Pasted image 20250312173919.png",
+    "Antennas/res/Pasted image 20250312173631.png",
+    "Antennas/res/Pasted image 20250312173339.png",
+    "Antennas/res/Pasted image 20250312173325.png",
+    "Antennas/res/Pasted image 20250312162941.png",
+    "Antennas/res/Pasted image 20250312162706.png",
     "Antennas/2025-02-09.md",
+    "Antennas/2025-03-12.md",
+    "Antennas/2025-03-10.md",
+    "conflict-files-obsidian-git.md",
     "Antennas/2025-02-11.md",
-    "Antennas/res/Pasted image 20250310222532.png",
-    "Antennas/res/Pasted image 20250310222525.png",
-    "Antennas/res/Pasted image 20250310222236.png",
-    "Antennas/res/Pasted image 20250310222138.png",
     "Antennas/res/245_deg-13-15_2025-03-10_22-17-55.s1p",
     "Antennas/res/60_deg-13-15_2025-03-10_22-17-55.s1p",
     "Antennas/res/60_deg_2025-03-10_22-17-55.s1p",
     "Antennas/res/bin_vna_files",
     "Antennas/res/New folder",
-    "Antennas/res/Pasted image 20250310221517.png",
-    "Antennas/res/Pasted image 20250310221311.png",
-    "Antennas/res/Pasted image 20250310221139.png",
-    "Antennas/res/Pasted image 20250310220413.png",
     "Other/KE8TJE/Talking on Sats.md",
-    "Other/KE8TJE/res/Pasted image 20250221220545.png",
     "Other/SatNOGS-init.md",
-    "Other/EMCOMM committee/res/Pasted image 20250217131305.png",
     "Other/EMCOMM committee/res",
     "Other/EMCOMM committee/Meeting 2 - 2025.02.18.pdf",
     "Other/EMCOMM committee/Meeting 2 - 2025.02.18.md",
@@ -229,11 +234,9 @@
     "README.md",
     "Other/Contesting.md",
     "Other/fixing stuff/G90.md",
-    "Other/fixing stuff",
     "Antennas/2024-11-24.md",
     "Other/EMCOMM committee/Readme.md",
     "Other/EMCOMM committee/KE8TJE.md",
-    "Other/EMCOMM committee",
     "Other/radioshack_swr_pwr_meter.md",
     "Other/KE8TJE/HF operation - Personal notes.md",
     "HF operation/RTTY.md",
@@ -244,7 +247,6 @@
     "Antennas/2025-02-03.md",
     "Antennas/2024-11-26.md",
     "Antennas/EFHW.md",
-    "Other/Getting started with OpenGD77.md",
-    "Antennas/ARC Slim Jim build day - 2024.md"
+    "Other/Getting started with OpenGD77.md"
   ]
 }
