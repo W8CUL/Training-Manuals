@@ -11,20 +11,6 @@
             "id": "8e62fe642478b107",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antennas/2025-03-10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-10"
-            }
-          },
-          {
-            "id": "4d60664eff4497c0",
-            "type": "leaf",
-            "state": {
               "type": "diff-view",
               "state": {
                 "file": ".obsidian/workspace.json",
@@ -49,7 +35,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "992e96fc5056357d",
+  "active": "ebccdf18af4fd8b4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Antennas/2025-03-10.md",
     "Antennas/2025-03-12.md",
+    "conflict-files-obsidian-git.md",
     "Antennas/res/Pasted image 20250312175350.png",
     "Antennas/res/Pasted image 20250312175147.png",
     "Antennas/res/uhf_sat_2025-03-12_17-48-02.s1p",
@@ -217,7 +204,6 @@
     "Antennas/res/Pasted image 20250312173325.png",
     "Antennas/res/Pasted image 20250312162941.png",
     "Antennas/2025-02-09.md",
-    "Antennas/2025-03-10.md",
     "Antennas/2025-02-11.md",
     "Antennas/res/245_deg-13-15_2025-03-10_22-17-55.s1p",
     "Antennas/res/60_deg-13-15_2025-03-10_22-17-55.s1p",
