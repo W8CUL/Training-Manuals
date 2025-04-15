@@ -20,7 +20,7 @@ Note: Following instruction are based on information available [here](https://m0
 	- clear out the inner jacket (white insulator) for a length of about 1 cm
 	- Use solder and tin the ends of the conductors. 
 	  Info: tinning is a term often used to describe applying solder to an open end of a wire or a connector
-	- ![Image on unsoldered coax is needed here]() 
+	- ![Image on unsoldered coax is needed here](test) 
 - Notes: at the end of this step you should have
 	- a length of ladder line making a conducting loop and removed jacket sections 
 	- A length coax with one end with a BNC connector and the other end tinned and prepared for soldering
