@@ -2,7 +2,8 @@
 ## Quick tips
 
 - Getting to know your repeaters
-	- repeater book app: this will tell you about the repeaters in the area
+	- repeater book [website](https://www.repeaterbook.com/index.php/en/) and app: this will tell you about the repeaters in the area
+		- this has most repeaters but do not go overboard only program the ones you are in range and using
 	- What do you need to know about a repeater:
 		- Output frequency: (eg. 146.760 MHz)
 		- offset: +/- (eg.- 0.6 MHz)
