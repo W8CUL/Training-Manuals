@@ -7,6 +7,7 @@ if you find any incorrect instructions or issues please contact [wvuarc@gmail.co
 ## Table of content
 
 1. Introduction
+	1. ![[Post TIAD Training]]
 2. VHF Radios
 	1. EMCOM Kits
 	2. Other radios

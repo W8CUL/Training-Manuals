@@ -11,12 +11,14 @@
             "id": "e5cee0ba2856d71f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Antennas/res/Pasted image 20240417231811.png"
+                "file": "Post TIAD Training.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240417231811"
+              "icon": "lucide-file",
+              "title": "Post TIAD Training"
             }
           }
         ]
@@ -170,10 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "651812df82ceb770",
+  "active": "e5cee0ba2856d71f",
   "lastOpenFiles": [
-    "Other/res/Pasted image 20250216095152.png",
+    "README.md",
+    "Post TIAD Training.md",
     "Antennas/res/Pasted image 20240417231811.png",
+    "Other/res/Pasted image 20250216095152.png",
     "Other/res/Pasted image 20240121125008.png",
     "Antennas/res/Pasted image 20250312175350.png",
     "Antennas/ARC Slim Jim build day - 2024.md",
@@ -188,14 +192,12 @@
     "Antennas/res/Pasted image 20250312174055.png",
     "Antennas/res/Pasted image 20250312174043.png",
     "Antennas/res/Pasted image 20250312173919.png",
-    "Antennas/res/Pasted image 20250312173631.png",
     "Antennas/res/60_deg_2025-03-10_22-17-55.s1p",
     "Antennas/res/60_deg-13-15_2025-03-10_22-17-55.s1p",
     "Antennas/res/2m_1601poits__2025-03-12_17-46-02.s1p",
     "Antennas/res/245_deg-13-15_2025-03-10_22-17-55.s1p",
     "Antennas/2025-03-12.md",
     "Antennas/2025-03-10.md",
-    "README.md",
     "Other/KE8TJE/H3-testing.md",
     "Antennas/2025-02-11.md",
     "Other/radioshack_swr_pwr_meter.md",
